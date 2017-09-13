@@ -1,5 +1,5 @@
 FROM php:5.6-fpm
-MAINTAINER Baptiste Donaux <baptiste.donaux@gmail.com>
+MAINTAINER Kevin DE SOUSA <contact@kevindesousa.fr>
 
 ARG PHP_APCU_VERSION=4.0.11
 ARG PHP_XDEBUG_VERSION=2.4.1
